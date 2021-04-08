@@ -1,5 +1,7 @@
 # genius-game
-Pequeno projeto que reproduz o jogo Genius, de cores, sons e memória. Aperte qualquer tecla para começar e use o mouse para selecionar as cores na ordem certa, que o jogo estabelecer. Uma cor/som é adiconada ao final da sequência por nível.
 
-Desenvolvido com JavaScript e JQuery.
-Link para o site: https://musing-lalande-b73961.netlify.app/
+Small project that reproduces the Genius game, of colors, sounds and memory. It was created to study the implementation of sound and animations through JavaScript, CSS and HTML, and learn the functionalities of JQuery.
+
+Press any key to start and use the mouse to select the colors in the right order, as the game dictates. If you get it right you pass to the next level, if not you have to start over. A color / sound is added at the end of the sequence per level.
+
+Link to access the website: https://musing-lalande-b73961.netlify.app/
